@@ -1,0 +1,10 @@
+transformers
+torch
+pandas
+scikit-learn
+streamlit
+datasets
+nltk
+fairlearn
+numpy
+tqdm
